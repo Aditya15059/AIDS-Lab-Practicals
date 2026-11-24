@@ -1,0 +1,11 @@
+EmpID,Name,Age,Gender,Department,Salary,JoiningDate
+101,Aarav,24,Male,IT,45000,2022-01-15
+102, Isha ,27,Female,HR,52000,15/03/2021
+103,Rohan,26,M,IT,48000,2020-07-01
+104,Meera,29,F,HR,,20/11/2021
+105,Kabir,26,Male,IT,51000,2019-05-10
+105,Kabir,26,Male,IT,51000,2019-05-10
+106,Sneha,25,Female,HR,47000,2022-02-28
+107,Aditya,150,Male,IT,60000,2018-09-09
+108,Priya,28,Female,HR,,2023-01-05
+109,Riya,,Female,IT,,
